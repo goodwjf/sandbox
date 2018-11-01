@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.selected {
+  color: red;
+  font-size: 30px;
+  text-decoration: none;
+}
